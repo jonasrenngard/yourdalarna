@@ -1,2 +1,2 @@
 # yourdalarna
-University project, with idea from 
+University project, with co-op @ hda
